@@ -1,2 +1,2 @@
 # WaitTimes
-R package that pulls data from queue-times.com/en-US
+R package that pulls data from *[Queue-Times.com](queue-times.com/en-US)*
